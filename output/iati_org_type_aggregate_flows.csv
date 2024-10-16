@@ -1,0 +1,866 @@
+transaction_year,value_usd,donor_org_type,recipient_org_type
+2016,35235165922.5254,Government,Government
+2016,226038990.562908,International NGO,National NGO
+2016,160642835.922555,National NGO,International NGO
+2016,1224449572.21208,International NGO,International NGO
+2016,13303308.6999022,Other Public Sector,Regional NGO
+2016,2121017767.36777,Other Public Sector,International NGO
+2016,26862787.6099016,Other Public Sector,Other
+2016,41003061.5573527,Other Public Sector,"Academic, Training and Research"
+2016,1236156.63181176,Other Public Sector,Private Sector in Third Country
+2016,13643904.0427015,Other Public Sector,National NGO
+2016,3894247.58047731,Other Public Sector,Other Public Sector
+2016,1770549.46236559,Other Public Sector,Multilateral
+2016,542341.404267504,Other Public Sector,Private Sector in Aid Recipient Country
+2016,1836745.70929234,Other Public Sector,Government
+2016,21951328.9888129,Other Public Sector,Partner Country based NGO
+2016,4760379149.68042,Government,National NGO
+2016,17577796679.0718,Government,Multilateral
+2016,2340791365.49766,Government,International NGO
+2016,4439860743.82976,Government,Private Sector
+2016,834806.37064684,Other Public Sector,Private Sector in Provider Country
+2016,3168.34029444,Other Public Sector,Local Government
+2016,4863727312.41517,Other,Other
+2016,59087270.6914923,Government,Foundation
+2016,157792347.503851,National NGO,National NGO
+2016,9135670403.36934,Multilateral,Multilateral
+2016,98199.6817303267,National NGO,Partner Country based NGO
+2016,742.751955821445,National NGO,Public Private Partnership
+2016,726334407.472469,Government,"Academic, Training and Research"
+2016,947045847.102334,Government,Regional NGO
+2016,569122393.272958,Government,Public Private Partnership
+2016,30650523.8780375,"Academic, Training and Research","Academic, Training and Research"
+2016,337680627.294479,Government,Other Public Sector
+2016,24061181.3329495,International NGO,Other
+2016,1660041.63286828,International NGO,Foundation
+2016,11933565.1014904,International NGO,"Academic, Training and Research"
+2016,30175827.8603437,International NGO,Regional NGO
+2016,8851574.6698894,Regional NGO,Regional NGO
+2016,766494891.729931,Multilateral,Private Sector
+2016,1874756927.30686,Multilateral,Local Government
+2016,16825757953.268,Multilateral,Government
+2016,360410785.363677,Private Sector,Private Sector
+2016,860650.950506066,Private Sector,"Academic, Training and Research"
+2016,16330830.1928801,International NGO,Private Sector
+2016,3816125.20636114,Foundation,Foundation
+2016,6906953.1785026,Foundation,National NGO
+2016,30681312.5699867,International NGO,Government
+2016,3423324.27448717,Foundation,Regional NGO
+2016,5411310.13540842,Foundation,International NGO
+2016,22881320.6074132,Foundation,Private Sector
+2016,914220.467990955,International NGO,Private Sector in Aid Recipient Country
+2016,16221305.1211075,Foundation,Multilateral
+2016,25836612.437742,International NGO,Partner Country based NGO
+2016,1651515.48443784,International NGO,Local Government
+2016,452541.451804506,International NGO,Private Sector in Provider Country
+2016,1121584.94820424,International NGO,Other Public Sector
+2016,69778342.1405337,Government,Private Sector in Aid Recipient Country
+2016,107906565.374357,Government,Private Sector in Third Country
+2016,27151539.2807367,Government,Private Sector in Provider Country
+2016,438009175.907957,Government,Other
+2016,7693072.14363731,Government,Local Government
+2016,45508527.8385397,Government,Partner Country based NGO
+2016,2372783.97858334,Private Sector,National NGO
+2016,14022476.9422381,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2016,115465.146545098,Private Sector in Aid Recipient Country,Private Sector
+2016,-29.214142417854,Private Sector in Aid Recipient Country,Multilateral
+2016,424214.91184211,International NGO,Multilateral
+2016,1276638.13973916,Other Public Sector,Private Sector
+2016,66786.1732747842,National NGO,"Academic, Training and Research"
+2016,54090108.5684702,Private Sector,International NGO
+2016,1892110.02625169,"Academic, Training and Research",National NGO
+2016,93135.9566755024,Foundation,"Academic, Training and Research"
+2016,3105221.72512818,Private Sector,Government
+2016,1461422.71623258,International NGO,Public Private Partnership
+2016,2916542.69504766,Private Sector,Other Public Sector
+2016,9016269.2514879,Private Sector,Private Sector in Aid Recipient Country
+2016,38366074.1,Multilateral,National NGO
+2016,432108450.84,Multilateral,International NGO
+2016,92009485.85,National NGO,Multilateral
+2016,3387446021.51001,Public Private Partnership,Other Public Sector
+2016,201477959.04,Multilateral,Other Public Sector
+2016,5171478995,Multilateral,Other
+2016,15857673,Multilateral,"Academic, Training and Research"
+2016,46117940.51,Public Private Partnership,Private Sector
+2016,8629193,Multilateral,Foundation
+2016,19808728,Multilateral,Public Private Partnership
+2017,31694933426.057,Government,Government
+2017,299752614.709725,International NGO,National NGO
+2017,1479137093.44909,International NGO,International NGO
+2017,7532190582.68369,National NGO,International NGO
+2017,17799439.3633349,Other Public Sector,Regional NGO
+2017,12405212.8763295,Other Public Sector,Other
+2017,1848163694.85303,Other Public Sector,International NGO
+2017,82817817.837048,Other Public Sector,"Academic, Training and Research"
+2017,669056.719158757,Other Public Sector,Private Sector in Third Country
+2017,11806637.1454662,Other Public Sector,National NGO
+2017,29265844.1639044,Other Public Sector,Other Public Sector
+2017,768192.127340422,Other Public Sector,Private Sector in Aid Recipient Country
+2017,2753378.84953098,Other Public Sector,Multilateral
+2017,1881080.32867741,Other Public Sector,Private Sector in Provider Country
+2017,1753250.45469383,Other Public Sector,Government
+2017,566857.552186029,Other Public Sector,Partner Country based NGO
+2017,5183335236.03275,Government,National NGO
+2017,20296209627.6179,Government,Multilateral
+2017,2642226422.69924,Government,International NGO
+2017,5156437890.71205,Government,Private Sector
+2017,4565431478.74488,Other,Other
+2017,57075941.0216601,Government,Foundation
+2017,1099155108.93549,Government,Regional NGO
+2017,922883238.227372,Government,"Academic, Training and Research"
+2017,529820801.452589,Government,Public Private Partnership
+2017,13161676.698159,Foundation,Foundation
+2017,1209904752.80654,National NGO,National NGO
+2017,7133059.15388463,National NGO,Regional NGO
+2017,13972783.8664023,Regional NGO,Regional NGO
+2017,399560.935780244,National NGO,Private Sector
+2017,8889406234.83308,Multilateral,Multilateral
+2017,20549858.525711,National NGO,Partner Country based NGO
+2017,71818084.5596978,"Academic, Training and Research","Academic, Training and Research"
+2017,1093183008.83155,Government,Other Public Sector
+2017,34284479.8254772,International NGO,Partner Country based NGO
+2017,6210104.11981647,Other Public Sector,Private Sector
+2017,63252496.5362737,Government,Partner Country based NGO
+2017,35878114.3015401,International NGO,Other
+2017,2605225.51235395,International NGO,Foundation
+2017,21828774.6564473,International NGO,"Academic, Training and Research"
+2017,32445819.4266713,International NGO,Regional NGO
+2017,37198.6669220456,International NGO,Multilateral
+2017,443016.665451063,National NGO,Other Public Sector
+2017,784810123.51859,National NGO,Multilateral
+2017,10447019.5446696,National NGO,Foundation
+2017,738936263.526809,Multilateral,Private Sector
+2017,1153724531.5913,Multilateral,Local Government
+2017,16679989377.9882,Multilateral,Government
+2017,422374310.463972,Private Sector,Private Sector
+2017,3198036.92693135,Private Sector,"Academic, Training and Research"
+2017,1148747.01343832,Private Sector,Public Private Partnership
+2017,28730988.9027684,International NGO,Private Sector
+2017,8404062.8666922,Foundation,International NGO
+2017,9155021.23938709,Foundation,National NGO
+2017,1566623.09963609,Regional NGO,National NGO
+2017,2498450.07988967,International NGO,Private Sector in Aid Recipient Country
+2017,38462173.743005,International NGO,Government
+2017,574521.778969546,International NGO,Private Sector in Provider Country
+2017,1887439.27906456,International NGO,Local Government
+2017,1121773.52464279,Foundation,Partner Country based NGO
+2017,37548.745451063,Foundation,Public Private Partnership
+2017,46090.1082091554,Foundation,Other
+2017,87904.3233863245,Foundation,"Academic, Training and Research"
+2017,5140545.19250719,National NGO,Private Sector in Aid Recipient Country
+2017,34192514.8341204,Government,Private Sector in Provider Country
+2017,77122949.0027982,Government,Private Sector in Aid Recipient Country
+2017,415928846.268798,Government,Other
+2017,87552476.9801378,Government,Private Sector in Third Country
+2017,6639220.59631533,Government,Local Government
+2017,397433.000436212,Private Sector,Foundation
+2017,3031820.17178947,Private Sector,Other Public Sector
+2017,1683784.44049105,Private Sector,National NGO
+2017,949386.997126988,Other Public Sector,Local Government
+2017,39976286.6661559,Foundation,Private Sector
+2017,17980822.2821682,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2017,144432.282673817,Private Sector in Aid Recipient Country,Private Sector
+2017,287381.824677265,Private Sector in Aid Recipient Country,Foundation
+2017,101126.149234584,National NGO,"Academic, Training and Research"
+2017,105527442.826201,Private Sector,International NGO
+2017,26794302.1182633,Regional NGO,Other
+2017,12556473.8905558,Private Sector,Private Sector in Aid Recipient Country
+2017,220994.266118628,"Academic, Training and Research",Public Private Partnership
+2017,42456.6605059928,"Academic, Training and Research",National NGO
+2017,7398658.71341437,"Academic, Training and Research",International NGO
+2017,5177077.43409711,Private Sector,Government
+2017,5007585.38128202,International NGO,Public Private Partnership
+2017,555559.071716683,International NGO,Other Public Sector
+2017,29167954.1811696,Private Sector,Regional NGO
+2017,11717.3202776006,"Academic, Training and Research",Private Sector
+2017,303675719.310001,Multilateral,National NGO
+2017,1087072594.92,Multilateral,International NGO
+2017,3975054816.91999,Public Private Partnership,Other Public Sector
+2017,242756651.72,Multilateral,Other Public Sector
+2017,6282489000,Multilateral,Other
+2017,41186638,Foundation,Multilateral
+2017,18073645,Multilateral,"Academic, Training and Research"
+2017,60997339.45,Public Private Partnership,Private Sector
+2017,8066426,Public Private Partnership,International NGO
+2017,2551684,Foundation,Regional NGO
+2017,16095037,Multilateral,Foundation
+2017,16656804,Multilateral,Public Private Partnership
+2017,3493465.96,"Academic, Training and Research",Regional NGO
+2018,34734135508.8759,Government,Government
+2018,330790802.439641,International NGO,National NGO
+2018,2595793420.94342,National NGO,International NGO
+2018,91903819.2391684,"Academic, Training and Research","Academic, Training and Research"
+2018,83121143.7032533,Other Public Sector,"Academic, Training and Research"
+2018,11566179.2698213,Other Public Sector,Regional NGO
+2018,14497904.4010171,Other Public Sector,Other
+2018,1743256074.67353,Other Public Sector,International NGO
+2018,2008939.480516,Other Public Sector,Private Sector in Third Country
+2018,12218384.7751635,Other Public Sector,National NGO
+2018,1591501.42922959,Other Public Sector,Private Sector in Aid Recipient Country
+2018,39055488.9976025,Other Public Sector,Other Public Sector
+2018,2717756.47733321,Other Public Sector,Government
+2018,2576415.23570144,Other Public Sector,Multilateral
+2018,5596063435.84921,Government,National NGO
+2018,19731579315.8121,Government,Multilateral
+2018,2676686793.64116,Government,International NGO
+2018,5859268404.85876,Government,Private Sector
+2018,539645.515100551,Other Public Sector,Partner Country based NGO
+2018,1724030811.65065,International NGO,International NGO
+2018,1739827114.96583,National NGO,National NGO
+2018,908963.826701049,Other Public Sector,Private Sector in Provider Country
+2018,584381605.87319,Government,Public Private Partnership
+2018,6287936880.50233,Other,Other
+2018,116268391.712294,Government,Foundation
+2018,11365270.0563687,National NGO,Foundation
+2018,1054670475.47628,Government,Regional NGO
+2018,1086294388.87974,Government,"Academic, Training and Research"
+2018,69623655.4589521,Foundation,Foundation
+2018,6189317.65152092,National NGO,Regional NGO
+2018,11424010173.9154,Multilateral,Multilateral
+2018,26635781.7612618,National NGO,Partner Country based NGO
+2018,1185997271.07306,Government,Other Public Sector
+2018,137733.253495587,"Academic, Training and Research",Private Sector
+2018,71624.799681685,"Academic, Training and Research",Government
+2018,553760488.505591,Private Sector,Private Sector
+2018,37772259.9401302,International NGO,Partner Country based NGO
+2018,10538394.3150953,Other Public Sector,Private Sector
+2018,71074539.5235249,Government,Partner Country based NGO
+2018,44341676.5964056,International NGO,Other
+2018,8786394.87678917,International NGO,Foundation
+2018,15686404.0857207,International NGO,"Academic, Training and Research"
+2018,1583118836.16533,International NGO,Regional NGO
+2018,37923197.2257544,International NGO,Government
+2018,15883081.8780819,Regional NGO,Regional NGO
+2018,484459.285172068,National NGO,Private Sector
+2018,606265.372697706,National NGO,Other Public Sector
+2018,70576.1248841667,Partner Country based NGO,National NGO
+2018,377743990.843688,Multilateral,Private Sector
+2018,17851047431.1855,Multilateral,Government
+2018,760814763.109837,Multilateral,Local Government
+2018,8815050.82449163,Private Sector,"Academic, Training and Research"
+2018,52379424.0548971,International NGO,Private Sector
+2018,26166265.6009384,Foundation,International NGO
+2018,3029219.72815194,International NGO,Other Public Sector
+2018,13257390.1951613,Foundation,National NGO
+2018,1645548.73352044,Regional NGO,National NGO
+2018,8823691.14327913,International NGO,Private Sector in Aid Recipient Country
+2018,38736978.2137426,Foundation,Private Sector
+2018,622185.222691903,International NGO,Private Sector in Provider Country
+2018,2933870.59130461,International NGO,Local Government
+2018,1718825.79672036,Foundation,Partner Country based NGO
+2018,49737.5891605418,Foundation,Public Private Partnership
+2018,37961.3657773208,Foundation,Other
+2018,31349.9536626173,Foundation,Government
+2018,914622.390885665,Foundation,"Academic, Training and Research"
+2018,5819600.14433858,National NGO,Private Sector in Aid Recipient Country
+2018,110125027.837054,Government,Private Sector in Aid Recipient Country
+2018,45155567.3989475,Government,Private Sector in Provider Country
+2018,296855323.75389,Government,Other
+2018,34011518.5394214,Government,Local Government
+2018,163932093.120694,Government,Private Sector in Third Country
+2018,1242292.3977033,Private Sector,Foundation
+2018,3064971.24402918,Private Sector,Other Public Sector
+2018,919245.313149777,Other Public Sector,Local Government
+2018,1137616.09032053,Other Public Sector,Foundation
+2018,23403911.8837415,Multilateral,Foundation
+2018,176131.660551176,Local Government,Foundation
+2018,71029.1188080278,Other,Foundation
+2018,7362888.04860556,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2018,32673.2190827272,Private Sector in Aid Recipient Country,Private Sector
+2018,164384.135486754,Private Sector in Aid Recipient Country,Foundation
+2018,269887.554736698,National NGO,"Academic, Training and Research"
+2018,172419787.531766,Private Sector,International NGO
+2018,48728.3391427683,International NGO,Multilateral
+2018,1941317.84948155,Private Sector,Public Private Partnership
+2018,480766.569169281,"Academic, Training and Research",National NGO
+2018,7083038.90213547,"Academic, Training and Research",International NGO
+2018,6541465.7792026,Private Sector,Government
+2018,2473776.58831469,International NGO,Public Private Partnership
+2018,84579.6479575045,Private Sector in Provider Country,"Academic, Training and Research"
+2018,1077364.93159854,Private Sector,National NGO
+2018,30229056.3940794,Private Sector,Regional NGO
+2018,8874249.36878037,Private Sector,Private Sector in Aid Recipient Country
+2018,176590.304184184,Private Sector in Provider Country,International NGO
+2018,10098304.088711,Other,National NGO
+2018,674238152.939999,Multilateral,International NGO
+2018,327083793.4,Multilateral,National NGO
+2018,239572384.81,National NGO,Multilateral
+2018,2970207300.33,Public Private Partnership,Other Public Sector
+2018,145099375.91,Multilateral,Other Public Sector
+2018,10304261319,Multilateral,Other
+2018,36890779,Foundation,Multilateral
+2018,31058586,Multilateral,"Academic, Training and Research"
+2018,29036702.99,Public Private Partnership,Private Sector
+2018,52540625,Public Private Partnership,International NGO
+2018,2703516,Foundation,Regional NGO
+2018,17207361,Multilateral,Public Private Partnership
+2018,3222163.98,"Academic, Training and Research",Regional NGO
+2018,1016395,International NGO,Private Sector in Third Country
+2018,336029.121769707,National NGO,Government
+2019,2205657145.25891,International NGO,International NGO
+2019,32297007083.749,Government,Government
+2019,335916816.171356,International NGO,National NGO
+2019,391080329.473214,National NGO,International NGO
+2019,87338761.2522004,"Academic, Training and Research","Academic, Training and Research"
+2019,96116978.0189673,Other Public Sector,"Academic, Training and Research"
+2019,10354513.6246428,Other Public Sector,Regional NGO
+2019,11837175.5219204,Other Public Sector,Other
+2019,1571693271.12465,Other Public Sector,International NGO
+2019,2235672.95627518,Other Public Sector,Private Sector in Third Country
+2019,13206627.7660977,Other Public Sector,National NGO
+2019,-496630.969812756,Other Public Sector,Partner Country based NGO
+2019,4618563.8880769,Other Public Sector,Multilateral
+2019,1537680.49952454,Other Public Sector,Private Sector in Aid Recipient Country
+2019,44225572.0073566,Other Public Sector,Other Public Sector
+2019,90670.1010563806,Other Public Sector,Public Private Partnership
+2019,411547.292605335,Other Public Sector,Private Sector in Provider Country
+2019,3996094.26000441,Other Public Sector,Government
+2019,5739936608.35607,Government,National NGO
+2019,22345567655.4492,Government,Multilateral
+2019,2616172483.49336,Government,International NGO
+2019,5941313960.4069,Government,Private Sector
+2019,13739384159.3712,Multilateral,Multilateral
+2019,506543724.12077,Government,Public Private Partnership
+2019,837022.409704843,Other Public Sector,Local Government
+2019,5544457564.73816,Other,Other
+2019,1852413575.49019,Multilateral,International NGO
+2019,99035839.0242022,Government,Foundation
+2019,46875327.5187868,Foundation,Foundation
+2019,1213887323.86895,Government,"Academic, Training and Research"
+2019,1127425664.93932,Government,Regional NGO
+2019,468596632.188919,Private Sector,Private Sector
+2019,850728815.945939,National NGO,National NGO
+2019,5923192.28261034,National NGO,Regional NGO
+2019,1674366.60522336,Regional NGO,National NGO
+2019,1719294525.32795,Government,Other Public Sector
+2019,1869094.74182406,"Academic, Training and Research",Foundation
+2019,8582689.03150428,"Academic, Training and Research",International NGO
+2019,53370.4137106666,"Academic, Training and Research",Private Sector
+2019,276545.209024439,"Academic, Training and Research",Government
+2019,8900.78169869217,"Academic, Training and Research",Other
+2019,24930968.3037921,National NGO,Partner Country based NGO
+2019,52262.8150658013,Partner Country based NGO,Partner Country based NGO
+2019,39547542.5600967,International NGO,Partner Country based NGO
+2019,12667805.824293,Other Public Sector,Private Sector
+2019,98400234.9342033,Government,Partner Country based NGO
+2019,47007396.5380364,International NGO,Other
+2019,26519082.5023771,International NGO,"Academic, Training and Research"
+2019,9476340.55457735,International NGO,Foundation
+2019,1448291627.41409,International NGO,Regional NGO
+2019,29207355.4005797,International NGO,Government
+2019,25014351.5238828,International NGO,Private Sector
+2019,66316423.1941302,Regional NGO,Regional NGO
+2019,546496.125358953,National NGO,Private Sector
+2019,4734758.41891542,Private Sector,Foundation
+2019,1062564.72781945,Other Public Sector,Foundation
+2019,620382.849789878,National NGO,Other Public Sector
+2019,10274815.7349556,National NGO,Foundation
+2019,35161829.1051293,Foundation,International NGO
+2019,591234288.887266,Multilateral,Private Sector
+2019,19701475281.655,Multilateral,Government
+2019,293514421.155149,Multilateral,Local Government
+2019,6849032.03305212,Private Sector,"Academic, Training and Research"
+2019,1513147.17219854,Private Sector,Government
+2019,4093409.14114377,International NGO,Other Public Sector
+2019,6748562.46204439,Foundation,National NGO
+2019,3962308.42420819,International NGO,Local Government
+2019,213992670.224712,Private Sector,International NGO
+2019,1663338.25083548,International NGO,Private Sector in Aid Recipient Country
+2019,20868207.3943404,Foundation,Private Sector
+2019,556769.086144795,International NGO,Private Sector in Provider Country
+2019,155368.462627787,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2019,1431846.42714068,Foundation,Partner Country based NGO
+2019,3690675.80243822,Foundation,Other
+2019,141718.179030866,Foundation,Government
+2019,41978.4376409149,Foundation,Public Private Partnership
+2019,3438639.63358634,Foundation,"Academic, Training and Research"
+2019,5664468.26594525,National NGO,Private Sector in Aid Recipient Country
+2019,100433381.12478,Government,Private Sector in Aid Recipient Country
+2019,89277421.6261006,Government,Private Sector in Provider Country
+2019,212811108.732742,Government,Other
+2019,83167908.9959329,Government,Private Sector in Third Country
+2019,3184519.99216407,Government,Local Government
+2019,2381151.6747715,Private Sector,Other Public Sector
+2019,251627.192265018,Local Government,Foundation
+2019,17753316.976819,Multilateral,Foundation
+2019,22688.7195232684,Other,Foundation
+2019,243808.147594278,National NGO,"Academic, Training and Research"
+2019,5555608.18814485,Private Sector,Other
+2019,1649226.73331696,Private Sector,Public Private Partnership
+2019,41379.9682802066,Local Government,International NGO
+2019,736118.000463693,"Academic, Training and Research",National NGO
+2019,6841.74352089712,Other,International NGO
+2019,756018.406276948,International NGO,Public Private Partnership
+2019,1089337.76239945,International NGO,Multilateral
+2019,20158886.2576667,Local Government,Government
+2019,793287.836658703,Other,Private Sector
+2019,195918.8238926,Private Sector in Provider Country,"Academic, Training and Research"
+2019,520349.269645053,Private Sector,National NGO
+2019,40281871.4975138,Private Sector,Regional NGO
+2019,3337783.79760722,Private Sector,Private Sector in Aid Recipient Country
+2019,140214178.88,Multilateral,National NGO
+2019,97793703.9,National NGO,Multilateral
+2019,3221588156.88,Public Private Partnership,Other Public Sector
+2019,158900539.42,Multilateral,Other Public Sector
+2019,9405697156,Multilateral,Other
+2019,46805774.24,Multilateral,"Academic, Training and Research"
+2019,15047000,Foundation,Multilateral
+2019,33988481.81,Public Private Partnership,Private Sector
+2019,72887.6,National NGO,Government
+2019,50124,"Academic, Training and Research",Private Sector in Aid Recipient Country
+2019,127521245,Public Private Partnership,International NGO
+2019,1249528,Foundation,Regional NGO
+2019,607885,Multilateral,Regional NGO
+2019,24327825,Multilateral,Public Private Partnership
+2019,11448,Regional NGO,International NGO
+2019,1648971.486,"Academic, Training and Research",Regional NGO
+2019,633015,International NGO,Private Sector in Third Country
+2020,5677777.45109312,National NGO,Regional NGO
+2020,2138385955.14333,International NGO,International NGO
+2020,29229372235.5911,Government,Government
+2020,359376662.572376,International NGO,National NGO
+2020,589938202.740691,Private Sector,Private Sector
+2020,246562616.587007,National NGO,International NGO
+2020,80555554.7493471,"Academic, Training and Research","Academic, Training and Research"
+2020,47762001.472926,International NGO,Partner Country based NGO
+2020,1327204983.97514,National NGO,National NGO
+2020,10237519.3981807,Other Public Sector,Regional NGO
+2020,89575212.8315784,Other Public Sector,"Academic, Training and Research"
+2020,9890099.01693276,Other Public Sector,Other
+2020,1863540397.33475,Other Public Sector,International NGO
+2020,10475450.6572859,Other Public Sector,National NGO
+2020,41613.5168893234,Other Public Sector,Public Private Partnership
+2020,45223484.020703,Other Public Sector,Other Public Sector
+2020,6737858921.96622,Government,National NGO
+2020,27945112599.6497,Government,Multilateral
+2020,2593058491.717,Government,International NGO
+2020,6059799200.78125,Government,Private Sector
+2020,3163131.32833714,Other Public Sector,Partner Country based NGO
+2020,10330725.664629,Other Public Sector,Multilateral
+2020,5935838.13743566,Other Public Sector,Government
+2020,2076721.77745194,Other Public Sector,Private Sector in Third Country
+2020,152214.057782122,Other Public Sector,Private Sector in Provider Country
+2020,1483356.72043011,Other Public Sector,Private Sector in Aid Recipient Country
+2020,59128196081.3773,Multilateral,Multilateral
+2020,537909586.490282,Government,Public Private Partnership
+2020,10966280821.3287,Other,Other
+2020,32559383.7555976,International NGO,Multilateral
+2020,102375430.496945,Government,Foundation
+2020,1277061939.50341,Government,Regional NGO
+2020,1063262953.02222,Government,"Academic, Training and Research"
+2020,170579560.309935,Government,Other
+2020,1299079707.96528,Multilateral,International NGO
+2020,69798025.7480773,Foundation,Foundation
+2020,1259560456.20229,Government,Other Public Sector
+2020,2915247.81881717,"Academic, Training and Research",Foundation
+2020,24035639.6722441,"Academic, Training and Research",International NGO
+2020,155238.948187245,"Academic, Training and Research",Government
+2020,6505.31315929123,"Academic, Training and Research",Other
+2020,23121604.1027905,National NGO,Partner Country based NGO
+2020,346918181.225801,Government,Partner Country based NGO
+2020,44654313.4564624,International NGO,Other
+2020,20168444.0636175,International NGO,"Academic, Training and Research"
+2020,21950582.1632663,International NGO,Foundation
+2020,1022832582.35285,International NGO,Regional NGO
+2020,28599925.8752506,International NGO,Government
+2020,30786732.9565702,International NGO,Private Sector
+2020,40244513.4454829,Regional NGO,Regional NGO
+2020,2294772.45791817,National NGO,Private Sector
+2020,841859.252529197,Partner Country based NGO,Partner Country based NGO
+2020,50838721.0884131,Foundation,International NGO
+2020,3223017906.15552,Multilateral,Private Sector
+2020,33567592820.415,Multilateral,Government
+2020,533386112.056521,Multilateral,Local Government
+2020,7675732.19580372,Private Sector,"Academic, Training and Research"
+2020,18382904.5919061,Foundation,National NGO
+2020,10783491.3065492,National NGO,Foundation
+2020,5331664.78356123,International NGO,Local Government
+2020,8447584.02454584,International NGO,Private Sector in Aid Recipient Country
+2020,594628.991513614,International NGO,Private Sector in Provider Country
+2020,1694371.58290297,Regional NGO,National NGO
+2020,204403318.543525,Private Sector,International NGO
+2020,14739846.6145809,Foundation,Private Sector
+2020,749723.633355337,Foundation,Regional NGO
+2020,228153.886609458,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2020,2244695.05492637,Other Public Sector,Foundation
+2020,10076863.8253439,Other Public Sector,Private Sector
+2020,3177807.96369708,International NGO,Other Public Sector
+2020,1358280.95046358,Foundation,Partner Country based NGO
+2020,1816864.79610886,Foundation,Other
+2020,149204.093632838,Foundation,Government
+2020,27993.5380459309,Foundation,Public Private Partnership
+2020,3351194.6332108,Foundation,"Academic, Training and Research"
+2020,8134675.97539509,Foundation,Multilateral
+2020,166009.600089308,National NGO,Other Public Sector
+2020,5656499.16784578,National NGO,Private Sector in Aid Recipient Country
+2020,98804548.0956611,Government,Private Sector in Third Country
+2020,77643786.40416,Government,Private Sector in Aid Recipient Country
+2020,153681474.020265,Government,Private Sector in Provider Country
+2020,1771046.8587041,Government,Local Government
+2020,2924441.01418752,Private Sector,Foundation
+2020,1441192.78372443,Private Sector,Other Public Sector
+2020,119223176.793439,National NGO,Multilateral
+2020,944311.246789885,Other Public Sector,Local Government
+2020,266327.737585155,Local Government,Foundation
+2020,30274162.7524034,Multilateral,Foundation
+2020,10514276.343931,Private Sector,Other
+2020,757203.571234224,Private Sector,Public Private Partnership
+2020,114839.898719657,National NGO,"Academic, Training and Research"
+2020,1096325.91842847,"Academic, Training and Research",National NGO
+2020,2205054.37804446,Other,Private Sector
+2020,36747.4846206136,"Academic, Training and Research",Multilateral
+2020,6872.86855739744,Other,International NGO
+2020,520341.709545459,International NGO,Public Private Partnership
+2020,572839.212169002,Private Sector,Private Sector in Provider Country
+2020,15635013.5505192,Local Government,Government
+2020,167534.029275832,Private Sector in Provider Country,"Academic, Training and Research"
+2020,30449099.811576,Private Sector,Regional NGO
+2020,38633.0857244552,"Academic, Training and Research",Local Government
+2020,138088.207337919,Foundation,Other Public Sector
+2020,7679177983.31,Multilateral,Other
+2020,237555129.819999,Multilateral,National NGO
+2020,3870168794.39999,Public Private Partnership,Other Public Sector
+2020,170280699.19,Multilateral,Other Public Sector
+2020,101513096.84,Multilateral,"Academic, Training and Research"
+2020,200247,"Academic, Training and Research",Private Sector
+2020,35117180.55,Public Private Partnership,Private Sector
+2020,108917225,Public Private Partnership,International NGO
+2020,19428683,Multilateral,Public Private Partnership
+2020,1870274,Private Sector,Private Sector in Aid Recipient Country
+2020,11674,Regional NGO,International NGO
+2020,1301281.28,"Academic, Training and Research",Regional NGO
+2020,9e+05,International NGO,Private Sector in Third Country
+2021,681720766.45594,National NGO,National NGO
+2021,2120231994.4091,International NGO,International NGO
+2021,206735325.040617,National NGO,International NGO
+2021,103646885.462506,"Academic, Training and Research","Academic, Training and Research"
+2021,381852371.991629,International NGO,National NGO
+2021,38358733951.2678,Multilateral,Multilateral
+2021,3499960956.2873,Government,International NGO
+2021,7680717323.16878,Government,National NGO
+2021,33283342100.4664,Government,Multilateral
+2021,21723959751.6348,Government,Government
+2021,6974453970.60534,Government,Private Sector
+2021,609941748.520271,Government,Public Private Partnership
+2021,72830888.4594206,Other Public Sector,"Academic, Training and Research"
+2021,1241623.7097967,Other Public Sector,Partner Country based NGO
+2021,13907438.1073417,Other Public Sector,Regional NGO
+2021,10319934.2751373,Other Public Sector,Other
+2021,2458204897.37681,Other Public Sector,International NGO
+2021,4810754.25745664,Other Public Sector,Government
+2021,14887334.5832532,Other Public Sector,National NGO
+2021,1223515.85663567,Other Public Sector,Private Sector in Third Country
+2021,42884923.4423941,Other Public Sector,Other Public Sector
+2021,3687192.05651405,Other Public Sector,Multilateral
+2021,86944.8110949068,Other Public Sector,Public Private Partnership
+2021,620214.507088722,Other Public Sector,Private Sector in Provider Country
+2021,1981199.3151234,Other Public Sector,Private Sector in Aid Recipient Country
+2021,17027343.1978458,International NGO,Multilateral
+2021,7163525757.43879,Other,Other
+2021,87603449.3751061,Foundation,Foundation
+2021,99509995.7861216,Government,Foundation
+2021,2093489687.96719,Multilateral,International NGO
+2021,1494247576.47293,Government,Regional NGO
+2021,1082401712.43585,Government,"Academic, Training and Research"
+2021,260080669.068069,Government,Other
+2021,443793295.14455,Private Sector,Private Sector
+2021,7835878.54075983,Private Sector,"Academic, Training and Research"
+2021,1147954944.60433,Government,Other Public Sector
+2021,433171.330615643,"Academic, Training and Research",Private Sector in Aid Recipient Country
+2021,351204.103245461,"Academic, Training and Research",Government
+2021,239664.465709475,"Academic, Training and Research",Foundation
+2021,21666415.8256166,"Academic, Training and Research",International NGO
+2021,24527930.3508608,National NGO,Partner Country based NGO
+2021,889950.285653057,Partner Country based NGO,Partner Country based NGO
+2021,44013425.6466201,International NGO,Partner Country based NGO
+2021,5380328.42842211,National NGO,Regional NGO
+2021,6773904.08263893,Regional NGO,National NGO
+2021,147339561.712503,Government,Partner Country based NGO
+2021,38518942.3230856,International NGO,Other
+2021,110207726.263979,International NGO,Foundation
+2021,47774085.551747,International NGO,Private Sector
+2021,17790278.2573966,International NGO,"Academic, Training and Research"
+2021,38499326.8874701,International NGO,Regional NGO
+2021,4452698.81278782,Foundation,Regional NGO
+2021,2590803.03142095,Foundation,Other
+2021,18978704.3571387,Foundation,National NGO
+2021,15129146.7302603,Foundation,Private Sector
+2021,2979422.06396497,National NGO,Private Sector
+2021,414361.007607046,Local Government,Foundation
+2021,8575976.93060598,International NGO,Other Public Sector
+2021,37951503.049302,Foundation,International NGO
+2021,2259487825.14753,Multilateral,Private Sector
+2021,31321175728.7142,Multilateral,Government
+2021,503954471.993852,Multilateral,Local Government
+2021,3631909.45375476,Regional NGO,International NGO
+2021,828796.157346637,International NGO,Public Private Partnership
+2021,159278753.314786,Private Sector,International NGO
+2021,39990025.3386413,Regional NGO,Regional NGO
+2021,2326096.28343523,Foundation,Partner Country based NGO
+2021,11815793.6369896,National NGO,Foundation
+2021,6485136.42967703,International NGO,Local Government
+2021,35348879.3065295,International NGO,Government
+2021,5113012.30156063,International NGO,Private Sector in Aid Recipient Country
+2021,571194.392299786,International NGO,Private Sector in Provider Country
+2021,436763.937275721,International NGO,Private Sector in Third Country
+2021,101215.868874435,Foundation,Other Public Sector
+2021,48070.1572630526,Foundation,Public Private Partnership
+2021,190020.81802314,Foundation,Government
+2021,27389.0051007297,Private Sector in Aid Recipient Country,Private Sector in Aid Recipient Country
+2021,4091.45707633409,Other,International NGO
+2021,2436285.96452229,Other Public Sector,Foundation
+2021,7867215.18075751,Other Public Sector,Private Sector
+2021,3167334.0958931,Foundation,"Academic, Training and Research"
+2021,1167236.36793457,Partner Country based NGO,Regional NGO
+2021,2867290.24977525,"Academic, Training and Research",National NGO
+2021,6286518.47191031,National NGO,Private Sector in Aid Recipient Country
+2021,180634.575537082,Private Sector in Aid Recipient Country,Private Sector
+2021,49751915.2647038,Government,Private Sector in Aid Recipient Country
+2021,158334549.885191,Government,Private Sector in Provider Country
+2021,65533590.5186778,Government,Private Sector in Third Country
+2021,5463512.60899505,Government,Local Government
+2021,4596279.72691853,Private Sector,Foundation
+2021,3030874.94622491,Private Sector,Other Public Sector
+2021,51896898.1253425,National NGO,Multilateral
+2021,562952.97634692,Other Public Sector,Local Government
+2021,27478436.5808845,Multilateral,Foundation
+2021,167264.24976003,Regional NGO,Partner Country based NGO
+2021,43022.4345333586,Regional NGO,Other
+2021,9022928.005023,Private Sector,Other
+2021,33496.0484704329,Private Sector,Public Private Partnership
+2021,1435014.5744504,Other,Private Sector
+2021,687860.367800905,Other,Foundation
+2021,328400.828121662,"Academic, Training and Research",Multilateral
+2021,503355.856489815,Public Private Partnership,Public Private Partnership
+2021,596443.642376921,Private Sector,Local Government
+2021,118486.63100914,Private Sector,Private Sector in Provider Country
+2021,11734793.746381,Local Government,Government
+2021,33098.465177844,Private Sector in Provider Country,"Academic, Training and Research"
+2021,3380522.13450925,Private Sector,Regional NGO
+2021,433071.326641584,"Academic, Training and Research",Local Government
+2021,231681368.678643,Multilateral,National NGO
+2021,340178131.42,Multilateral,Other
+2021,4760505972.98,Public Private Partnership,Other Public Sector
+2021,236420478.46,Multilateral,Other Public Sector
+2021,137517979.37,Multilateral,"Academic, Training and Research"
+2021,7645063.54,"Academic, Training and Research",Private Sector
+2021,29673036.97,Public Private Partnership,Private Sector
+2021,145828234,Public Private Partnership,International NGO
+2021,17375970,Multilateral,Public Private Partnership
+2021,17608231,Private Sector,Private Sector in Aid Recipient Country
+2021,1589552,"Academic, Training and Research",Regional NGO
+2022,346964275.191094,International NGO,National NGO
+2022,2623799756.17593,International NGO,International NGO
+2022,374818075.805709,National NGO,International NGO
+2022,48084480.716771,"Academic, Training and Research","Academic, Training and Research"
+2022,56065801573.5159,Multilateral,Multilateral
+2022,293798417.812161,National NGO,National NGO
+2022,48528890281.7378,Government,Multilateral
+2022,9132743509.78847,Government,National NGO
+2022,1943527335.92211,Government,International NGO
+2022,32190318056.3399,Government,Government
+2022,9339411069.69135,Government,Private Sector
+2022,275553840.994493,Government,Public Private Partnership
+2022,1013459.54593643,Other Public Sector,Partner Country based NGO
+2022,19121956.887048,Other Public Sector,Regional NGO
+2022,8853091.73490766,Other Public Sector,Other
+2022,92524622.1087672,Other Public Sector,"Academic, Training and Research"
+2022,2097816390.00403,Other Public Sector,International NGO
+2022,7330149.65834834,Other Public Sector,Multilateral
+2022,2427309.75535954,Other Public Sector,Government
+2022,12520088.2652809,Other Public Sector,National NGO
+2022,11524.6617433023,Other Public Sector,Local Government
+2022,23325579.5755462,Other Public Sector,Other Public Sector
+2022,4314.06504590948,Other Public Sector,Public Private Partnership
+2022,1547632.22760318,Other Public Sector,Private Sector in Provider Country
+2022,3046514.72304927,Other Public Sector,Private Sector in Aid Recipient Country
+2022,697453.32093508,Other Public Sector,Private Sector in Third Country
+2022,15635984.3970839,International NGO,Multilateral
+2022,1767181753.29538,Government,Regional NGO
+2022,1096951922.18974,Government,"Academic, Training and Research"
+2022,205121390.926237,Government,Other
+2022,5265780758.20412,Other,Other
+2022,183868245.228298,Foundation,Foundation
+2022,4183337654.46182,Multilateral,International NGO
+2022,850077864.954862,Private Sector,Private Sector
+2022,7963150.4309094,Private Sector,"Academic, Training and Research"
+2022,88275864.2696262,Government,Foundation
+2022,1497637326.4109,Government,Other Public Sector
+2022,3303981.51134582,Foundation,"Academic, Training and Research"
+2022,439822.252985346,"Academic, Training and Research",Private Sector in Aid Recipient Country
+2022,238254.647268916,"Academic, Training and Research",Government
+2022,6320389.58665838,"Academic, Training and Research",National NGO
+2022,10306262.5115286,Regional NGO,National NGO
+2022,42138123.5221662,International NGO,Other
+2022,45938045.9005362,International NGO,Regional NGO
+2022,17259277.5723975,International NGO,Private Sector
+2022,3453067.79041815,Foundation,Regional NGO
+2022,9533930.4727894,International NGO,Other Public Sector
+2022,36266328.942138,Regional NGO,Regional NGO
+2022,5981314.13410723,Foundation,International NGO
+2022,30935856575.8984,Multilateral,Government
+2022,919699420.651017,Multilateral,Local Government
+2022,1759237077.1421,Multilateral,Private Sector
+2022,2752550.78881422,Regional NGO,International NGO
+2022,821810.992538693,International NGO,Public Private Partnership
+2022,868701.045645164,Foundation,Partner Country based NGO
+2022,502834170.26372,Foundation,National NGO
+2022,41268226.0863433,International NGO,Partner Country based NGO
+2022,4553052.33752635,International NGO,Local Government
+2022,36498475.7659739,International NGO,Government
+2022,23411069.0373056,International NGO,"Academic, Training and Research"
+2022,659483.384179138,International NGO,Private Sector in Aid Recipient Country
+2022,473625.300010234,International NGO,Private Sector in Provider Country
+2022,12024.7449403148,National NGO,Other
+2022,1881889.88782212,Public Private Partnership,Public Private Partnership
+2022,85101138.1795322,Private Sector,International NGO
+2022,11158.4574433001,National NGO,Partner Country based NGO
+2022,127659417.03385,International NGO,Foundation
+2022,53298987.2580041,National NGO,Multilateral
+2022,7818523.76243903,Foundation,Private Sector
+2022,36885.7206758124,Foundation,Public Private Partnership
+2022,54529.1620589004,Foundation,Government
+2022,12012133.2187943,"Academic, Training and Research",International NGO
+2022,274359.211908882,Other,International NGO
+2022,25083.2069331807,National NGO,Foundation
+2022,2228571.28089404,Other Public Sector,Private Sector
+2022,4049742.02668109,Partner Country based NGO,Regional NGO
+2022,1216080.33117176,Private Sector in Aid Recipient Country,Private Sector
+2022,247456970.758291,Government,Private Sector in Provider Country
+2022,66346077.1424023,Government,Private Sector in Aid Recipient Country
+2022,2468695.859934,Government,Local Government
+2022,24769590.3470084,Government,Private Sector in Third Country
+2022,984301254.542656,Government,Partner Country based NGO
+2022,3756544.94490631,Private Sector,Other Public Sector
+2022,3482714.85308205,Private Sector,Foundation
+2022,390844.892484195,National NGO,Regional NGO
+2022,42440172.4542503,Multilateral,Foundation
+2022,2661817.4371997,Other Public Sector,Foundation
+2022,1052379.33477905,Other,Foundation
+2022,186959.754225723,Local Government,Foundation
+2022,3884.05584838571,National NGO,"Academic, Training and Research"
+2022,374063.063795373,Regional NGO,Partner Country based NGO
+2022,40298.1767771919,Regional NGO,Other
+2022,364874.708257334,Private Sector,Other
+2022,16271.3492517782,Private Sector,Public Private Partnership
+2022,12738061.3970512,Other,Private Sector
+2022,250794.018502954,"Academic, Training and Research",Multilateral
+2022,292940.722246512,Private Sector,Local Government
+2022,790739.790623681,"Academic, Training and Research",Local Government
+2022,1091158.63599121,Partner Country based NGO,Partner Country based NGO
+2022,402478891.05,Multilateral,National NGO
+2022,1000115663.13,Multilateral,Other
+2022,4946690417.65003,Public Private Partnership,Other Public Sector
+2022,204772312.96,Multilateral,Other Public Sector
+2022,87528694.54,Multilateral,"Academic, Training and Research"
+2022,6163019.71,"Academic, Training and Research",Private Sector
+2022,29965061.11,Public Private Partnership,Private Sector
+2022,813500,Foundation,Other
+2022,4650000,Multilateral,Public Private Partnership
+2022,81249327,Private Sector,Private Sector in Aid Recipient Country
+2022,1759330123.79,Multilateral,Partner Country based NGO
+2022,1208254,International NGO,Private Sector in Third Country
+2023,193355301.339681,National NGO,International NGO
+2023,52802928981.692,Multilateral,Multilateral
+2023,416082197.335753,International NGO,National NGO
+2023,40462704642.2677,Government,Multilateral
+2023,10090063346.8955,Government,National NGO
+2023,2077143988.06619,Government,International NGO
+2023,8325752552.70883,Government,Private Sector
+2023,27092754108.7676,Government,Government
+2023,485556379.858802,Government,Public Private Partnership
+2023,17362004.2306959,Other Public Sector,Regional NGO
+2023,11307355.1238535,Other Public Sector,Other
+2023,43170654.1478189,Other Public Sector,"Academic, Training and Research"
+2023,2292271531.1426,Other Public Sector,International NGO
+2023,1004754.93774778,Other Public Sector,Partner Country based NGO
+2023,4555710.41973167,Other Public Sector,Government
+2023,13630570.1953024,Other Public Sector,National NGO
+2023,11358993.2615126,Other Public Sector,Multilateral
+2023,3196762.66758828,Other Public Sector,Private Sector in Aid Recipient Country
+2023,1648141.82233056,Other Public Sector,Private Sector in Third Country
+2023,1436306.05915316,Other Public Sector,Private Sector in Provider Country
+2023,19372405.366089,Other Public Sector,Other Public Sector
+2023,1504453456.7094,International NGO,International NGO
+2023,174084.475174037,Other Public Sector,Public Private Partnership
+2023,9270025.14969197,International NGO,Multilateral
+2023,2258600582.50822,Other,Other
+2023,61310025.7815376,Foundation,Foundation
+2023,2038751637.50705,Government,Regional NGO
+2023,1026230476.45783,Government,"Academic, Training and Research"
+2023,3124650579.8086,Multilateral,International NGO
+2023,176002095.976904,Government,Other
+2023,562472898.007938,Private Sector,Private Sector
+2023,9232959.23401484,Private Sector,"Academic, Training and Research"
+2023,155748169.299242,National NGO,National NGO
+2023,37561294.7532444,Government,Foundation
+2023,4452319.51916946,International NGO,Local Government
+2023,64395870.641313,International NGO,Foundation
+2023,1306707213.96945,Government,Other Public Sector
+2023,465317.762975168,"Academic, Training and Research",Private Sector in Aid Recipient Country
+2023,184273.162499543,"Academic, Training and Research",Government
+2023,64234871.8149197,"Academic, Training and Research","Academic, Training and Research"
+2023,4912873.0384711,"Academic, Training and Research",International NGO
+2023,6688197.79885145,"Academic, Training and Research",National NGO
+2023,39521761.3935796,International NGO,Other
+2023,16924269.7712642,International NGO,Private Sector
+2023,4639658.99229456,Foundation,Regional NGO
+2023,126556.564410083,Private Sector,National NGO
+2023,40499673.4194556,Regional NGO,Regional NGO
+2023,9955271.66218943,Foundation,International NGO
+2023,2211763281.7792,Multilateral,Private Sector
+2023,31773187168.1888,Multilateral,Government
+2023,1498059755.41796,Multilateral,Local Government
+2023,340403.953571413,Foundation,Partner Country based NGO
+2023,16163593.9874962,International NGO,"Academic, Training and Research"
+2023,45296194.894321,International NGO,Regional NGO
+2023,42871106.9599349,International NGO,Partner Country based NGO
+2023,2344889.4180113,International NGO,Private Sector in Aid Recipient Country
+2023,49665601.44467,International NGO,Government
+2023,388702.762426916,International NGO,Private Sector in Provider Country
+2023,20954.5438930889,International NGO,Private Sector in Third Country
+2023,10784632.900272,Regional NGO,National NGO
+2023,5425727.18091638,Public Private Partnership,Public Private Partnership
+2023,23374394.7375407,Foundation,National NGO
+2023,281402.365253892,Foundation,"Academic, Training and Research"
+2023,14806110.8379018,International NGO,Other Public Sector
+2023,36095756.2777418,National NGO,Multilateral
+2023,3125331.29829353,Foundation,Private Sector
+2023,48974.4715481978,Foundation,Other Public Sector
+2023,21766.431799199,Foundation,Public Private Partnership
+2023,134.679796757544,Private Sector,Foundation
+2023,8706.5727196796,Foundation,Government
+2023,58135976.3927544,Private Sector,International NGO
+2023,441746.418919162,Other,International NGO
+2023,893530.374459126,National NGO,Foundation
+2023,426527496.244706,Government,Private Sector in Provider Country
+2023,5501389.34590409,Partner Country based NGO,Regional NGO
+2023,141268675.080715,Government,Private Sector in Aid Recipient Country
+2023,19555038.4260955,Government,Private Sector in Third Country
+2023,4107488.20537722,Government,Local Government
+2023,409830110.051577,Government,Partner Country based NGO
+2023,2943486.54374317,Private Sector,Other Public Sector
+2023,424516.160987728,Regional NGO,Partner Country based NGO
+2023,42850.4859614931,Regional NGO,Other
+2023,464997.370847878,Other Public Sector,Private Sector
+2023,34559.278406158,National NGO,"Academic, Training and Research"
+2023,1257286.24254773,Other,National NGO
+2023,112527.118708022,Other,Private Sector
+2023,69551.9810987094,"Academic, Training and Research",Multilateral
+2023,135847.263934797,International NGO,Public Private Partnership
+2023,63029.4566753452,Private Sector in Provider Country,Private Sector
+2023,22631.1523658591,Private Sector,Government
+2023,38424.9181146328,"Academic, Training and Research",Foundation
+2023,222657.823802353,"Academic, Training and Research",Local Government
+2023,197801148.17,Multilateral,Other
+2023,42318855.64,Multilateral,Foundation
+2023,511390560.190002,Multilateral,National NGO
+2023,4701699609.19001,Public Private Partnership,Other Public Sector
+2023,250534746.34,Multilateral,Other Public Sector
+2023,74148779.35,Multilateral,"Academic, Training and Research"
+2023,2227383,"Academic, Training and Research",Private Sector
+2023,41902139.13,Public Private Partnership,Private Sector
+2023,135000,Foundation,Other
+2023,905547.36,Regional NGO,International NGO
+2023,594210,Partner Country based NGO,Partner Country based NGO
+2023,8147.08607881142,Multilateral,Public Private Partnership
