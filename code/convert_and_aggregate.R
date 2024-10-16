@@ -18,7 +18,7 @@ setnames(ex_rates,
          c("transaction_year", "currency", "multiplier")
          )
 
-dat = fread("input/api_results.csv")
+dat = fread("large_input/api_results.csv")
 sum(!dat$recipient_org_type_code %in% names(org_type_map)) / nrow(dat)
 sum(!dat$donor_org_type_code %in% names(org_type_map)) / nrow(dat)
 sum(!dat$donor_org_type_code %in% names(org_type_map) | !dat$recipient_org_type_code %in% names(org_type_map)) / nrow(dat)
