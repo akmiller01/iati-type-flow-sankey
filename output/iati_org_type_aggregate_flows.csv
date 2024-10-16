@@ -23,7 +23,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2016,4863727312.41517,Other,Other
 2016,59087270.6914923,Government,Foundation
 2016,157792347.503851,National NGO,National NGO
-2016,9135670403.36934,Multilateral,Multilateral
+2016,10503589281.3694,Multilateral,Multilateral
 2016,98199.6817303267,National NGO,Partner Country based NGO
 2016,742.751955821445,National NGO,Public Private Partnership
 2016,726334407.472469,Government,"Academic, Training and Research"
@@ -36,9 +36,9 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2016,11933565.1014904,International NGO,"Academic, Training and Research"
 2016,30175827.8603437,International NGO,Regional NGO
 2016,8851574.6698894,Regional NGO,Regional NGO
-2016,766494891.729931,Multilateral,Private Sector
+2016,769501393.729931,Multilateral,Private Sector
 2016,1874756927.30686,Multilateral,Local Government
-2016,16825757953.268,Multilateral,Government
+2016,22643723537.268,Multilateral,Government
 2016,360410785.363677,Private Sector,Private Sector
 2016,860650.950506066,Private Sector,"Academic, Training and Research"
 2016,16330830.1928801,International NGO,Private Sector
@@ -74,13 +74,13 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2016,1461422.71623258,International NGO,Public Private Partnership
 2016,2916542.69504766,Private Sector,Other Public Sector
 2016,9016269.2514879,Private Sector,Private Sector in Aid Recipient Country
-2016,38366074.1,Multilateral,National NGO
-2016,432108450.84,Multilateral,International NGO
+2016,967760193.1,Multilateral,National NGO
+2016,744840318.84,Multilateral,International NGO
 2016,92009485.85,National NGO,Multilateral
 2016,3387446021.51001,Public Private Partnership,Other Public Sector
 2016,201477959.04,Multilateral,Other Public Sector
+2016,142283876,Multilateral,"Academic, Training and Research"
 2016,5171478995,Multilateral,Other
-2016,15857673,Multilateral,"Academic, Training and Research"
 2016,46117940.51,Public Private Partnership,Private Sector
 2016,8629193,Multilateral,Foundation
 2016,19808728,Multilateral,Public Private Partnership
@@ -114,7 +114,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2017,7133059.15388463,National NGO,Regional NGO
 2017,13972783.8664023,Regional NGO,Regional NGO
 2017,399560.935780244,National NGO,Private Sector
-2017,8889406234.83308,Multilateral,Multilateral
+2017,10201475153.8331,Multilateral,Multilateral
 2017,20549858.525711,National NGO,Partner Country based NGO
 2017,71818084.5596978,"Academic, Training and Research","Academic, Training and Research"
 2017,1093183008.83155,Government,Other Public Sector
@@ -129,9 +129,9 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2017,443016.665451063,National NGO,Other Public Sector
 2017,784810123.51859,National NGO,Multilateral
 2017,10447019.5446696,National NGO,Foundation
-2017,738936263.526809,Multilateral,Private Sector
+2017,739294481.526809,Multilateral,Private Sector
 2017,1153724531.5913,Multilateral,Local Government
-2017,16679989377.9882,Multilateral,Government
+2017,21545656287.9882,Multilateral,Government
 2017,422374310.463972,Private Sector,Private Sector
 2017,3198036.92693135,Private Sector,"Academic, Training and Research"
 2017,1148747.01343832,Private Sector,Public Private Partnership
@@ -173,13 +173,13 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2017,555559.071716683,International NGO,Other Public Sector
 2017,29167954.1811696,Private Sector,Regional NGO
 2017,11717.3202776006,"Academic, Training and Research",Private Sector
-2017,303675719.310001,Multilateral,National NGO
-2017,1087072594.92,Multilateral,International NGO
+2017,1559121731.30999,Multilateral,National NGO
+2017,1498170311.92,Multilateral,International NGO
 2017,3975054816.91999,Public Private Partnership,Other Public Sector
 2017,242756651.72,Multilateral,Other Public Sector
+2017,84004518,Multilateral,"Academic, Training and Research"
 2017,6282489000,Multilateral,Other
 2017,41186638,Foundation,Multilateral
-2017,18073645,Multilateral,"Academic, Training and Research"
 2017,60997339.45,Public Private Partnership,Private Sector
 2017,8066426,Public Private Partnership,International NGO
 2017,2551684,Foundation,Regional NGO
@@ -216,7 +216,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2018,1086294388.87974,Government,"Academic, Training and Research"
 2018,69623655.4589521,Foundation,Foundation
 2018,6189317.65152092,National NGO,Regional NGO
-2018,11424010173.9154,Multilateral,Multilateral
+2018,12312389273.9154,Multilateral,Multilateral
 2018,26635781.7612618,National NGO,Partner Country based NGO
 2018,1185997271.07306,Government,Other Public Sector
 2018,137733.253495587,"Academic, Training and Research",Private Sector
@@ -235,7 +235,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2018,606265.372697706,National NGO,Other Public Sector
 2018,70576.1248841667,Partner Country based NGO,National NGO
 2018,377743990.843688,Multilateral,Private Sector
-2018,17851047431.1855,Multilateral,Government
+2018,20012062575.1855,Multilateral,Government
 2018,760814763.109837,Multilateral,Local Government
 2018,8815050.82449163,Private Sector,"Academic, Training and Research"
 2018,52379424.0548971,International NGO,Private Sector
@@ -282,14 +282,14 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2018,8874249.36878037,Private Sector,Private Sector in Aid Recipient Country
 2018,176590.304184184,Private Sector in Provider Country,International NGO
 2018,10098304.088711,Other,National NGO
-2018,674238152.939999,Multilateral,International NGO
-2018,327083793.4,Multilateral,National NGO
+2018,1678128322.4,Multilateral,National NGO
+2018,1117411164.94,Multilateral,International NGO
 2018,239572384.81,National NGO,Multilateral
 2018,2970207300.33,Public Private Partnership,Other Public Sector
 2018,145099375.91,Multilateral,Other Public Sector
+2018,86349064,Multilateral,"Academic, Training and Research"
 2018,10304261319,Multilateral,Other
 2018,36890779,Foundation,Multilateral
-2018,31058586,Multilateral,"Academic, Training and Research"
 2018,29036702.99,Public Private Partnership,Private Sector
 2018,52540625,Public Private Partnership,International NGO
 2018,2703516,Foundation,Regional NGO
@@ -319,11 +319,11 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2019,22345567655.4492,Government,Multilateral
 2019,2616172483.49336,Government,International NGO
 2019,5941313960.4069,Government,Private Sector
-2019,13739384159.3712,Multilateral,Multilateral
+2019,14475925082.3712,Multilateral,Multilateral
 2019,506543724.12077,Government,Public Private Partnership
 2019,837022.409704843,Other Public Sector,Local Government
 2019,5544457564.73816,Other,Other
-2019,1852413575.49019,Multilateral,International NGO
+2019,2354883529.49019,Multilateral,International NGO
 2019,99035839.0242022,Government,Foundation
 2019,46875327.5187868,Foundation,Foundation
 2019,1213887323.86895,Government,"Academic, Training and Research"
@@ -357,7 +357,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2019,10274815.7349556,National NGO,Foundation
 2019,35161829.1051293,Foundation,International NGO
 2019,591234288.887266,Multilateral,Private Sector
-2019,19701475281.655,Multilateral,Government
+2019,22208416263.655,Multilateral,Government
 2019,293514421.155149,Multilateral,Local Government
 2019,6849032.03305212,Private Sector,"Academic, Training and Research"
 2019,1513147.17219854,Private Sector,Government
@@ -398,12 +398,12 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2019,520349.269645053,Private Sector,National NGO
 2019,40281871.4975138,Private Sector,Regional NGO
 2019,3337783.79760722,Private Sector,Private Sector in Aid Recipient Country
-2019,140214178.88,Multilateral,National NGO
+2019,1511557490.88,Multilateral,National NGO
 2019,97793703.9,National NGO,Multilateral
 2019,3221588156.88,Public Private Partnership,Other Public Sector
 2019,158900539.42,Multilateral,Other Public Sector
+2019,124825108.24,Multilateral,"Academic, Training and Research"
 2019,9405697156,Multilateral,Other
-2019,46805774.24,Multilateral,"Academic, Training and Research"
 2019,15047000,Foundation,Multilateral
 2019,33988481.81,Public Private Partnership,Private Sector
 2019,72887.6,National NGO,Government
@@ -441,7 +441,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2020,2076721.77745194,Other Public Sector,Private Sector in Third Country
 2020,152214.057782122,Other Public Sector,Private Sector in Provider Country
 2020,1483356.72043011,Other Public Sector,Private Sector in Aid Recipient Country
-2020,59128196081.3773,Multilateral,Multilateral
+2020,59763915014.3773,Multilateral,Multilateral
 2020,537909586.490282,Government,Public Private Partnership
 2020,10966280821.3287,Other,Other
 2020,32559383.7555976,International NGO,Multilateral
@@ -449,7 +449,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2020,1277061939.50341,Government,Regional NGO
 2020,1063262953.02222,Government,"Academic, Training and Research"
 2020,170579560.309935,Government,Other
-2020,1299079707.96528,Multilateral,International NGO
+2020,1883172631.96528,Multilateral,International NGO
 2020,69798025.7480773,Foundation,Foundation
 2020,1259560456.20229,Government,Other Public Sector
 2020,2915247.81881717,"Academic, Training and Research",Foundation
@@ -469,7 +469,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2020,841859.252529197,Partner Country based NGO,Partner Country based NGO
 2020,50838721.0884131,Foundation,International NGO
 2020,3223017906.15552,Multilateral,Private Sector
-2020,33567592820.415,Multilateral,Government
+2020,36028235971.4149,Multilateral,Government
 2020,533386112.056521,Multilateral,Local Government
 2020,7675732.19580372,Private Sector,"Academic, Training and Research"
 2020,18382904.5919061,Foundation,National NGO
@@ -517,11 +517,11 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2020,30449099.811576,Private Sector,Regional NGO
 2020,38633.0857244552,"Academic, Training and Research",Local Government
 2020,138088.207337919,Foundation,Other Public Sector
+2020,1649259986.82,Multilateral,National NGO
 2020,7679177983.31,Multilateral,Other
-2020,237555129.819999,Multilateral,National NGO
 2020,3870168794.39999,Public Private Partnership,Other Public Sector
 2020,170280699.19,Multilateral,Other Public Sector
-2020,101513096.84,Multilateral,"Academic, Training and Research"
+2020,189797874.84,Multilateral,"Academic, Training and Research"
 2020,200247,"Academic, Training and Research",Private Sector
 2020,35117180.55,Public Private Partnership,Private Sector
 2020,108917225,Public Private Partnership,International NGO
@@ -535,7 +535,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2021,206735325.040617,National NGO,International NGO
 2021,103646885.462506,"Academic, Training and Research","Academic, Training and Research"
 2021,381852371.991629,International NGO,National NGO
-2021,38358733951.2678,Multilateral,Multilateral
+2021,39072515253.6378,Multilateral,Multilateral
 2021,3499960956.2873,Government,International NGO
 2021,7680717323.16878,Government,National NGO
 2021,33283342100.4664,Government,Multilateral
@@ -559,7 +559,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2021,7163525757.43879,Other,Other
 2021,87603449.3751061,Foundation,Foundation
 2021,99509995.7861216,Government,Foundation
-2021,2093489687.96719,Multilateral,International NGO
+2021,2872103767.53719,Multilateral,International NGO
 2021,1494247576.47293,Government,Regional NGO
 2021,1082401712.43585,Government,"Academic, Training and Research"
 2021,260080669.068069,Government,Other
@@ -590,7 +590,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2021,8575976.93060598,International NGO,Other Public Sector
 2021,37951503.049302,Foundation,International NGO
 2021,2259487825.14753,Multilateral,Private Sector
-2021,31321175728.7142,Multilateral,Government
+2021,34813785479.8343,Multilateral,Government
 2021,503954471.993852,Multilateral,Local Government
 2021,3631909.45375476,Regional NGO,International NGO
 2021,828796.157346637,International NGO,Public Private Partnership
@@ -638,11 +638,11 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2021,33098.465177844,Private Sector in Provider Country,"Academic, Training and Research"
 2021,3380522.13450925,Private Sector,Regional NGO
 2021,433071.326641584,"Academic, Training and Research",Local Government
-2021,231681368.678643,Multilateral,National NGO
+2021,2289415211.72864,Multilateral,National NGO
 2021,340178131.42,Multilateral,Other
 2021,4760505972.98,Public Private Partnership,Other Public Sector
 2021,236420478.46,Multilateral,Other Public Sector
-2021,137517979.37,Multilateral,"Academic, Training and Research"
+2021,249758702.9,Multilateral,"Academic, Training and Research"
 2021,7645063.54,"Academic, Training and Research",Private Sector
 2021,29673036.97,Public Private Partnership,Private Sector
 2021,145828234,Public Private Partnership,International NGO
@@ -653,7 +653,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2022,2623799756.17593,International NGO,International NGO
 2022,374818075.805709,National NGO,International NGO
 2022,48084480.716771,"Academic, Training and Research","Academic, Training and Research"
-2022,56065801573.5159,Multilateral,Multilateral
+2022,56935235262.4259,Multilateral,Multilateral
 2022,293798417.812161,National NGO,National NGO
 2022,48528890281.7378,Government,Multilateral
 2022,9132743509.78847,Government,National NGO
@@ -681,7 +681,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2022,205121390.926237,Government,Other
 2022,5265780758.20412,Other,Other
 2022,183868245.228298,Foundation,Foundation
-2022,4183337654.46182,Multilateral,International NGO
+2022,5111318374.99182,Multilateral,International NGO
 2022,850077864.954862,Private Sector,Private Sector
 2022,7963150.4309094,Private Sector,"Academic, Training and Research"
 2022,88275864.2696262,Government,Foundation
@@ -698,7 +698,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2022,9533930.4727894,International NGO,Other Public Sector
 2022,36266328.942138,Regional NGO,Regional NGO
 2022,5981314.13410723,Foundation,International NGO
-2022,30935856575.8984,Multilateral,Government
+2022,34905716804.0484,Multilateral,Government
 2022,919699420.651017,Multilateral,Local Government
 2022,1759237077.1421,Multilateral,Private Sector
 2022,2752550.78881422,Regional NGO,International NGO
@@ -748,11 +748,11 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2022,292940.722246512,Private Sector,Local Government
 2022,790739.790623681,"Academic, Training and Research",Local Government
 2022,1091158.63599121,Partner Country based NGO,Partner Country based NGO
-2022,402478891.05,Multilateral,National NGO
+2022,3115451763.59,Multilateral,National NGO
 2022,1000115663.13,Multilateral,Other
 2022,4946690417.65003,Public Private Partnership,Other Public Sector
 2022,204772312.96,Multilateral,Other Public Sector
-2022,87528694.54,Multilateral,"Academic, Training and Research"
+2022,191982297.24,Multilateral,"Academic, Training and Research"
 2022,6163019.71,"Academic, Training and Research",Private Sector
 2022,29965061.11,Public Private Partnership,Private Sector
 2022,813500,Foundation,Other
@@ -761,7 +761,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2022,1759330123.79,Multilateral,Partner Country based NGO
 2022,1208254,International NGO,Private Sector in Third Country
 2023,193355301.339681,National NGO,International NGO
-2023,52802928981.692,Multilateral,Multilateral
+2023,53892054904.822,Multilateral,Multilateral
 2023,416082197.335753,International NGO,National NGO
 2023,40462704642.2677,Government,Multilateral
 2023,10090063346.8955,Government,National NGO
@@ -788,7 +788,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2023,61310025.7815376,Foundation,Foundation
 2023,2038751637.50705,Government,Regional NGO
 2023,1026230476.45783,Government,"Academic, Training and Research"
-2023,3124650579.8086,Multilateral,International NGO
+2023,4158438023.2386,Multilateral,International NGO
 2023,176002095.976904,Government,Other
 2023,562472898.007938,Private Sector,Private Sector
 2023,9232959.23401484,Private Sector,"Academic, Training and Research"
@@ -809,7 +809,7 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2023,40499673.4194556,Regional NGO,Regional NGO
 2023,9955271.66218943,Foundation,International NGO
 2023,2211763281.7792,Multilateral,Private Sector
-2023,31773187168.1888,Multilateral,Government
+2023,35767229423.1487,Multilateral,Government
 2023,1498059755.41796,Multilateral,Local Government
 2023,340403.953571413,Foundation,Partner Country based NGO
 2023,16163593.9874962,International NGO,"Academic, Training and Research"
@@ -852,12 +852,12 @@ transaction_year,value_usd,donor_org_type,recipient_org_type
 2023,22631.1523658591,Private Sector,Government
 2023,38424.9181146328,"Academic, Training and Research",Foundation
 2023,222657.823802353,"Academic, Training and Research",Local Government
+2023,3251484271.99,Multilateral,National NGO
 2023,197801148.17,Multilateral,Other
 2023,42318855.64,Multilateral,Foundation
-2023,511390560.190002,Multilateral,National NGO
 2023,4701699609.19001,Public Private Partnership,Other Public Sector
 2023,250534746.34,Multilateral,Other Public Sector
-2023,74148779.35,Multilateral,"Academic, Training and Research"
+2023,151718865.05,Multilateral,"Academic, Training and Research"
 2023,2227383,"Academic, Training and Research",Private Sector
 2023,41902139.13,Public Private Partnership,Private Sector
 2023,135000,Foundation,Other

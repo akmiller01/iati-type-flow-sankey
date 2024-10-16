@@ -12,8 +12,8 @@ dat = fread("output/iati_org_type_aggregate_flows.csv")
 dat = subset(dat, transaction_year==2023)
 dat$value_usd_billions = dat$value_usd / 1e9
 
-dat$donor_org_type = paste0("Donor: ", dat$donor_org_type)
-dat$recipient_org_type = paste0("Recipient: ", dat$recipient_org_type)
+dat$donor_org_type = paste0("Donor: ", dat$donor_org_type, " ")
+dat$recipient_org_type = paste0("Recipient: ", dat$recipient_org_type, " ")
 nodes = data.frame(name=c(dat$donor_org_type, dat$recipient_org_type))
 nodes = unique(nodes)
 

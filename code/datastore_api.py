@@ -84,11 +84,11 @@ def main():
                             results_dict['donor_org_type_code'] = funding_org_types[0]
                         if len(implementing_org_types) > 0:
                             results_dict['recipient_org_type_code'] = implementing_org_types[0]
-                    if 'reporting_org_type' in activity:
+                    if 'reporting_org_type' in activity and activity['reporting_org_type'] != "":
                         results_dict['donor_org_type_code'] = activity['reporting_org_type']
-                    if 'transaction_provider_org_type' in activity and len(activity['transaction_provider_org_type']) == transaction_len:
+                    if 'transaction_provider_org_type' in activity and len(activity['transaction_provider_org_type']) == transaction_len and activity['transaction_provider_org_type'][transaction_index] != "":
                         results_dict['donor_org_type_code'] = activity['transaction_provider_org_type'][transaction_index]
-                    if 'transaction_receiver_org_type' in activity and len(activity['transaction_receiver_org_type']) == transaction_len:
+                    if 'transaction_receiver_org_type' in activity and len(activity['transaction_receiver_org_type']) == transaction_len and activity['transaction_receiver_org_type'][transaction_index] != "":
                         results_dict['recipient_org_type_code'] = activity['transaction_receiver_org_type'][transaction_index]
                     results.append(results_dict)
 
@@ -101,7 +101,7 @@ def main():
 
     # Write to disk
     df.to_csv(
-        os.path.join('input', 'api_results.csv'),
+        os.path.join('large_input', 'api_results.csv'),
         index=False,
     )
 
