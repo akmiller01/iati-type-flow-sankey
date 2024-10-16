@@ -38,4 +38,4 @@ p <- sankeyNetwork(Links = links, Nodes = nodes, Source = "source",
 p
 
 # save the widget
-saveWidget(p, file="output.sankey.html")
+saveWidget(p, file="output/sankey.html")
